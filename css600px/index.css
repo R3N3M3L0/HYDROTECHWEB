@@ -20,13 +20,15 @@
         right: 0%;
     }
     .nav {
+        box-sizing: content-box;
+        padding-top: 10px;
+        padding-bottom: 10px;
         position: fixed;
         top: 110px;
         background-color: #0c09af;
         width: 85%;
         text-align: center;
         margin-left: 7%;
-        height: 60%;
         display: none;
     }
     li {
