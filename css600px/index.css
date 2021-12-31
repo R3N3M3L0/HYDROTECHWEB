@@ -1,0 +1,47 @@
+@media only screen and (max-width: 600px) {
+    .header-top {
+        position: absolute;
+        background-image: url(../img/ab.jpg);
+        background-size: 100%;
+        background-repeat: no-repeat;
+        height: 150px;
+        width: 100%;
+    }
+    
+    .icono {
+        width: 90px;
+        position: absolute;
+        top: 30px;
+    }
+    .iconMenu {
+        width: 70px;
+        position: absolute;
+        top: 40px;
+        right: 0%;
+    }
+    .nav {
+        position: fixed;
+        top: 110px;
+        background-color: #0c09af;
+        width: 85%;
+        text-align: center;
+        margin-left: 7%;
+        height: 60%;
+        display: none;
+    }
+    li {
+        list-style: none;
+    }
+    li a {
+        color: white;
+    }
+    .iconMenuCerrado {
+        width: 70px;
+        position: absolute;
+        top: 40px;
+        right: 0%;
+        display: none;
+    }
+}
+
+
