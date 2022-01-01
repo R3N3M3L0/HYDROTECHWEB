@@ -44,6 +44,9 @@
         right: 0%;
         display: none;
     }
+    .header {
+        display: none;
+    }
 }
 
 

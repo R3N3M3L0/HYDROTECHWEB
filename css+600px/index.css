@@ -1,0 +1,48 @@
+@media only screen and (min-width: 601px){
+    .nav{
+        display: none;
+    }
+    .icons input[onclick]
+    {
+        display: none;
+    }
+    .icons {
+        display: none;
+    }
+    .header{
+        margin-left: 20%;
+        width: 80%;
+        box-sizing: content-box;
+        padding-top: 5.5%;
+        margin-bottom: 4.5%;
+        text-align: center;
+    }
+    .fotoIcono{
+        padding-right: 0%;
+        width: 100%;
+        margin-bottom: 10%;
+    }
+    .header h1{
+        text-align: center;
+        font-size: 770%;
+        display: inline-block;
+    }
+    .left-nav {
+        width: 20%;
+        position: absolute;
+        top: 0%;
+    }
+    .navigator {
+        text-align: center;
+        
+    }
+    .navigator li {
+        font-size: 170%;
+        color: white;
+        background: linear-gradient(to bottom, rgb(17, 14, 190), rgb(13, 11, 139));
+    }
+    .navigator li a{
+        color: white;
+    }
+}   
+    

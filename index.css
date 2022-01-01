@@ -8,3 +8,13 @@ a
 * {
     font-family: 'Bebas Neue';
 }
+li{
+    list-style: none;
+}
+main
+{
+    margin-left: 20%;
+    width: 80%;
+    height: 50px;
+    background-color: whitesmoke;
+}
