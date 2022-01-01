@@ -47,6 +47,17 @@
     .header {
         display: none;
     }
+    .fotoIcono{
+        display: none;
+    }
+    .header {
+        display: none;
+    }
+    main{
+        margin-left: auto;
+        margin-right: auto;
+        width: 90%;
+    }
 }
 
 
