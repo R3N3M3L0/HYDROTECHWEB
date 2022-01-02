@@ -34,7 +34,7 @@
     }
     .navigator {
         text-align: center;
-        
+        width: 20%;
     }
     .navigator li {
         font-size: 170%;
@@ -43,6 +43,9 @@
     }
     .navigator li a{
         color: white;
+    }
+    .iconopc {
+        width: 20%;
     }
 }   
     
