@@ -1,4 +1,4 @@
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 700px) {
     .header-top {
         position: absolute;
         background-image: url(../img/ab.jpg);
@@ -9,12 +9,12 @@
     }
     
     .icono {
-        width: 90px;
+        width: 110px;
         position: absolute;
         top: 30px;
     }
     .iconMenu {
-        width: 70px;
+        width: 90px;
         position: absolute;
         top: 40px;
         right: 0%;
@@ -38,7 +38,7 @@
         color: white;
     }
     .iconMenuCerrado {
-        width: 70px;
+        width: 90px;
         position: absolute;
         top: 40px;
         right: 0%;
@@ -52,11 +52,6 @@
     }
     .header {
         display: none;
-    }
-    main{
-        margin-left: auto;
-        margin-right: auto;
-        width: 90%;
     }
 }
 
