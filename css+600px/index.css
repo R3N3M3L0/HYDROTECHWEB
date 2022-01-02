@@ -14,9 +14,7 @@
         padding-top: 2%;
         padding-bottom: 2%;
         margin-bottom: 4%;
-        background-image: url(../img/ab.jpg);
-        background-size:cover;
-        background-repeat: no-repeat;
+        background: url(../img/ab.jpg);
     }
     .fotoIcono{
         width: 20%;

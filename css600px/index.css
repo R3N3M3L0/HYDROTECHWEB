@@ -25,11 +25,11 @@
         padding-bottom: 10px;
         position: fixed;
         top: 110px;
-        background-color: #0c09af;
         width: 85%;
         text-align: center;
         margin-left: 7%;
         display: none;
+        background: linear-gradient(to bottom, rgb(93, 90, 241), rgb(13, 11, 139));
     }
     li {
         list-style: none;
